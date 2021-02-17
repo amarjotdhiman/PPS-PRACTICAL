@@ -1,0 +1,16 @@
+/*C program to print string using printf()*/
+
+#include <stdio.h>
+
+int main(){
+	
+	char name[]="AMARJOT SINGH";
+	
+	printf("name is %s.\n",name);
+	
+	return 0;
+}
+
+
+//OUTPUT
+name is AMARJOT.
